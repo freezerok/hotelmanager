@@ -1,0 +1,14 @@
+C:\Users\Freezer\source\repos\git\git\obj\Debug\netcoreapp3.1\git.csproj.AssemblyReference.cache
+C:\Users\Freezer\source\repos\git\git\obj\Debug\netcoreapp3.1\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freezer\source\repos\git\git\obj\Debug\netcoreapp3.1\git.AssemblyInfoInputs.cache
+C:\Users\Freezer\source\repos\git\git\obj\Debug\netcoreapp3.1\git.AssemblyInfo.cs
+C:\Users\Freezer\source\repos\git\git\obj\Debug\netcoreapp3.1\git.csproj.CoreCompileInputs.cache
+C:\Users\Freezer\source\repos\git\git\bin\Debug\netcoreapp3.1\git.exe
+C:\Users\Freezer\source\repos\git\git\bin\Debug\netcoreapp3.1\git.deps.json
+C:\Users\Freezer\source\repos\git\git\bin\Debug\netcoreapp3.1\git.runtimeconfig.json
+C:\Users\Freezer\source\repos\git\git\bin\Debug\netcoreapp3.1\git.runtimeconfig.dev.json
+C:\Users\Freezer\source\repos\git\git\bin\Debug\netcoreapp3.1\git.dll
+C:\Users\Freezer\source\repos\git\git\bin\Debug\netcoreapp3.1\git.pdb
+C:\Users\Freezer\source\repos\git\git\obj\Debug\netcoreapp3.1\git.dll
+C:\Users\Freezer\source\repos\git\git\obj\Debug\netcoreapp3.1\git.pdb
+C:\Users\Freezer\source\repos\git\git\obj\Debug\netcoreapp3.1\git.genruntimeconfig.cache
